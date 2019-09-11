@@ -1,0 +1,5 @@
+{
+    "mongodbURL": "mongodb://localhost/Testing",
+    "mongodbCloudUrl": "enter cloud url",
+    "jwtSecret": "a secret"
+}

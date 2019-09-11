@@ -1,0 +1,63 @@
+// import fonts here if needed
+
+// import fonts here if needed
+
+// Import variables here
+@import"variables/AllVariables";
+// Import variables here
+
+// import mixins here
+@import"mixins/Flex";
+// import mixins here
+
+// reset settings here
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+/* width */
+// ::-webkit-scrollbar {
+//     width: 8px;
+//   }
+  
+//   /* Track */
+//   ::-webkit-scrollbar-track {
+//     background: black; 
+//   }
+   
+//   /* Handle */
+//   ::-webkit-scrollbar-thumb {
+//     background: #5d2d11; 
+//     transition: all 0.5s;
+//   }
+  
+//   /* Handle on hover */
+//   ::-webkit-scrollbar-thumb:hover {
+//     background: $goldColor; 
+
+//   }
+//   ::-webkit-scrollbar-button{
+//       height: 15px;
+//       background: $goldColor;
+//   }
+// reset settings here
+
+// import all the components here
+// import all the components here
+
+
+// // for pc
+// @media(min-width:1020px){
+
+// }
+// // for tab
+// @media(min-width:760px) and (max-width:1020px){
+
+// }
+// // for mob
+// @media(max-width:760px){
+
+// }
